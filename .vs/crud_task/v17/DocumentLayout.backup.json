@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\errors\\errorglobalhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\errors\\errorglobalhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\crud_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\crud_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\dtos\\products\\createproductvalidationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\dtos\\products\\createproductvalidationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\dtos\\products\\deleteproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\dtos\\products\\deleteproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\dtos\\products\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\dtos\\products\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\dtos\\products\\getproductbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\dtos\\products\\getproductbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\crud_task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\crud_task.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\migrations\\20241115234513_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\migrations\\20241115234513_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|c:\\users\\ibrah\\desktop\\ibraheem\\ibraheem\\full_stack\\backend\\api\\crud_task\\crud_task\\migrations\\20241117103643_change price name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6422DA-9555-4852-8542-C26D37AF6174}|crud_task\\crud_task.csproj|solutionrelative:crud_task\\migrations\\20241117103643_change price name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorGlobalHandling.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Errors\\ErrorGlobalHandling.cs",
+              "RelativeDocumentMoniker": "crud_task\\Errors\\ErrorGlobalHandling.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Errors\\ErrorGlobalHandling.cs",
+              "RelativeToolTip": "crud_task\\Errors\\ErrorGlobalHandling.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:17:24.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProductValidationDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\CreateProductValidationDto.cs",
+              "RelativeDocumentMoniker": "crud_task\\DTOs\\Products\\CreateProductValidationDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\CreateProductValidationDto.cs",
+              "RelativeToolTip": "crud_task\\DTOs\\Products\\CreateProductValidationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:27:31.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "crud_task\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "crud_task\\Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:16:08.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "crud_task\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "crud_task\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:17:51.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Program.cs",
+              "RelativeDocumentMoniker": "crud_task\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Program.cs",
+              "RelativeToolTip": "crud_task\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:59:52.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "crud_task\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "crud_task\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:19:33.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "crud_task.csproj",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\crud_task.csproj",
+              "RelativeDocumentMoniker": "crud_task\\crud_task.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\crud_task.csproj",
+              "RelativeToolTip": "crud_task\\crud_task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T10:46:56.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\appsettings.json",
+              "RelativeDocumentMoniker": "crud_task\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\appsettings.json",
+              "RelativeToolTip": "crud_task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T09:00:08.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "crud_task\\DTOs\\Products\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\CreateProductDto.cs",
+              "RelativeToolTip": "crud_task\\DTOs\\Products\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:46:43.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\DeleteProductDto.cs",
+              "RelativeDocumentMoniker": "crud_task\\DTOs\\Products\\DeleteProductDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\DeleteProductDto.cs",
+              "RelativeToolTip": "crud_task\\DTOs\\Products\\DeleteProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:46:56.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\GetAllProductsDto.cs",
+              "RelativeDocumentMoniker": "crud_task\\DTOs\\Products\\GetAllProductsDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\GetAllProductsDto.cs",
+              "RelativeToolTip": "crud_task\\DTOs\\Products\\GetAllProductsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:47:06.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProductByIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\GetProductByIdDto.cs",
+              "RelativeDocumentMoniker": "crud_task\\DTOs\\Products\\GetProductByIdDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\GetProductByIdDto.cs",
+              "RelativeToolTip": "crud_task\\DTOs\\Products\\GetProductByIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:47:18.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "crud_task\\DTOs\\Products\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\DTOs\\Products\\UpdateProductDto.cs",
+              "RelativeToolTip": "crud_task\\DTOs\\Products\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:47:29.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241117103643_change price name.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Migrations\\20241117103643_change price name.cs",
+              "RelativeDocumentMoniker": "crud_task\\Migrations\\20241117103643_change price name.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Migrations\\20241117103643_change price name.cs",
+              "RelativeToolTip": "crud_task\\Migrations\\20241117103643_change price name.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:36:44.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241115234513_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Migrations\\20241115234513_initial.cs",
+              "RelativeDocumentMoniker": "crud_task\\Migrations\\20241115234513_initial.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Migrations\\20241115234513_initial.cs",
+              "RelativeToolTip": "crud_task\\Migrations\\20241115234513_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:45:13.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "crud_task\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\WeatherForecast.cs",
+              "RelativeToolTip": "crud_task\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:27:19.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "crud_task.http",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\crud_task.http",
+              "RelativeDocumentMoniker": "crud_task\\crud_task.http",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\crud_task.http",
+              "RelativeToolTip": "crud_task\\crud_task.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-13T09:26:02.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "crud_task\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\IBRAHEEM\\IBRAHEEM\\Full_Stack\\backEnd\\API\\crud_task\\crud_task\\Properties\\launchSettings.json",
+              "RelativeToolTip": "crud_task\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T08:54:43.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
